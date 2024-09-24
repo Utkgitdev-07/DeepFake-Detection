@@ -1,0 +1,6 @@
+tensorflow  # TensorFlow for deep learning model building
+keras      # Keras for model building (if separate from TensorFlow, adjust as needed)
+Pillow     # For image processing and resizing
+numpy      # For numerical operations
+pandas     # For handling CSV files
+scikit-learn # For dataset splitting and other utilities
